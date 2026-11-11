@@ -1,0 +1,77 @@
+{
+  "canais": [
+    { "titulo": "Instituto Homem", "channelId": "UCQU0xnLQEeBcOWZb_-eL4JQ", "porAssunto": true },
+    { "titulo": "Dr. Flávio Machado", "channelId": "UCGVh814pCkvQ1qb4_f9Y4pg", "porAssunto": true },
+    { "titulo": "Código Homem Podcast", "channelId": "UCPeXR_cfj0_1TOQKrzRo2Gg", "porAssunto": true }
+  ],
+  "playlists": [
+    { "titulo": "Entrevistas com o Dr. Flávio Machado", "playlistId": "PLnAjOgOQ8wdxyzcj5bmJORpCaO8raRs9m" },
+    { "titulo": "Cortes das entrevistas", "playlistId": "PLnAjOgOQ8wdyZUFFQWHDV76WxUV9bpiUU" }
+  ],
+  "assuntos": [
+    {
+      "titulo": "Ereção e disfunção erétil",
+      "palavrasChave": ["erétil", "ereção", "impotência", "hora h"]
+    },
+    {
+      "titulo": "Ejaculação precoce",
+      "palavrasChave": ["ejaculação", "precoce", "rápido demais"]
+    },
+    {
+      "titulo": "Desejo, libido e testosterona",
+      "palavrasChave": ["libido", "desejo", "vontade", "testosterona", "falta de sexo"]
+    },
+    {
+      "titulo": "Estimulantes sexuais: os riscos",
+      "palavrasChave": ["estimulante"]
+    },
+    {
+      "titulo": "Saúde sexual do homem",
+      "palavrasChave": ["medicina sexual", "saúde sexual", "problemas sexuais", "vida sexual", "próstata", "pênis", "fertilidade", "diagnóstico", "tratamento", "prevenção"]
+    },
+    {
+      "titulo": "Mente, autoestima e aparência",
+      "palavrasChave": ["psicológico", "trauma", "autoestima", "confiança", "aparência", "estética"]
+    },
+    {
+      "titulo": "Coração, sono e qualidade de vida",
+      "palavrasChave": ["infarto", "avc", "burnout", "dorme", "sono", "biohacking", "envelhec", "aposent", "longevidade", "sintomas", "musculação"]
+    },
+    {
+      "titulo": "Código Homem: episódios completos",
+      "palavrasChave": ["código homem #"]
+    },
+    {
+      "titulo": "Carreira, negócios e sucesso",
+      "palavrasChave": ["carreira", "sucesso", "milhões", "mansão", "arquiteto", "empresário", "alta performance", "dinheiro"]
+    },
+    {
+      "titulo": "Esporte, luta e velocidade",
+      "palavrasChave": ["lutador", "lutar", "taekwondo", "copa truck", "piloto", "caminhão"]
+    },
+    {
+      "titulo": "Entrevistas",
+      "palavrasChave": ["entrevista"]
+    },
+    {
+      "titulo": "Conheça o Instituto Homem",
+      "palavrasChave": ["dia dos pais", "world meeting", "lançamento", "sociedade", "sigilo", "cursos"]
+    }
+  ],
+  "tituloOutros": "Mais vídeos",
+  "mostrarMaisAssistidos": true,
+  "tituloMaisAssistidos": "Mais assistidos (teste de configuração)",
+  "maisAssistidosPorCanal": 8,
+  "maisAssistidosVariar": true,
+  "mostrarShorts": true,
+  "tituloShorts": "Shorts",
+  "shortsNoModoAutomatico": false,
+  "inatividadeSegundos": 30,
+  "pausaMaximaMinutos": 3,
+  "duracaoMaximaAutomaticoMinutos": 15,
+  "lembreteIntervaloSegundos": 45,
+  "lembreteDuracaoSegundos": 10,
+  "painelSegundos": 15,
+  "dicaSegundos": 5,
+  "atualizacaoHoras": 6
+}
