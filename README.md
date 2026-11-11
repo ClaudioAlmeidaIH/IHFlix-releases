@@ -15,6 +15,7 @@ app **sem instalar nada nas boxes**, edite esse arquivo aqui no GitHub (ícone d
 | `playlists` | Playlists extras para trazer mais vídeos (o YouTube só entrega os 15 mais recentes de cada canal ou playlist). `playlistId` é o trecho depois de `list=` no endereço. |
 | `assuntos` | Fileiras por assunto. Cada vídeo entra na primeira fileira, de cima para baixo, que tiver uma das `palavrasChave` no título (maiúsculas e acentos não importam). |
 | `mostrarFileirasDosCanais` | `true` mostra também uma fileira por canal. Vem `false` para o catálogo não repetir os mesmos vídeos. |
+| `suavizarMaiusculas` | `true` mostra títulos escritos em MAIÚSCULAS como "Assim", mais fáceis de ler. Só muda a exibição. |
 | `tituloOutros` | Fileira dos vídeos que não combinam com nenhum assunto. |
 | `mostrarMaisAssistidos`, `tituloMaisAssistidos`, `maisAssistidosPorCanal`, `maisAssistidosVariar` | Primeira fileira, com os mais vistos de cada canal. |
 | `mostrarShorts`, `tituloShorts`, `shortsNoModoAutomatico` | Fileira de Shorts. |

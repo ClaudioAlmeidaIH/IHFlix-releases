@@ -59,6 +59,7 @@
     }
   ],
   "mostrarFileirasDosCanais": false,
+  "suavizarMaiusculas": true,
   "tituloOutros": "Mais vídeos",
   "mostrarMaisAssistidos": true,
   "tituloMaisAssistidos": "Mais assistidos",
