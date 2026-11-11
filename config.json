@@ -58,6 +58,7 @@
       "palavrasChave": ["dia dos pais", "world meeting", "lançamento", "sociedade", "sigilo", "cursos"]
     }
   ],
+  "mostrarFileirasDosCanais": false,
   "tituloOutros": "Mais vídeos",
   "mostrarMaisAssistidos": true,
   "tituloMaisAssistidos": "Mais assistidos",
@@ -67,6 +68,7 @@
   "tituloShorts": "Shorts",
   "shortsNoModoAutomatico": false,
   "inatividadeSegundos": 30,
+  "contagemVisivelSegundos": 10,
   "pausaMaximaMinutos": 3,
   "duracaoMaximaAutomaticoMinutos": 15,
   "lembreteIntervaloSegundos": 45,
